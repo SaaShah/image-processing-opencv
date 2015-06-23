@@ -60,10 +60,19 @@
 	"buffers":
 	[
 		{
-			"file": "new",
+			"file": "TemplateMatching.py",
 			"settings":
 			{
-				"buffer_size": 1920,
+				"buffer_size": 1267,
+				"line_ending": "Unix",
+				"name": "import cv2"
+			}
+		},
+		{
+			"file": "ImageGradients.py",
+			"settings":
+			{
+				"buffer_size": 804,
 				"line_ending": "Unix"
 			}
 		}
@@ -75,7 +84,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 75.0,
+		"height": 392.0,
 		"last_filter": "instal",
 		"selected_items":
 		[
@@ -114,8 +123,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/saad/src/image-processing"
+	],
 	"file_history":
 	[
+		"/home/saad/src/image-processing/CannyEdgeDetection.py",
+		"/home/saad/src/image-processing/ImageGradients.py",
+		"/home/saad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/saad/src/image-processing/image-processing.sublime-project",
+		"/home/saad/src/image-processing/new",
 		"/home/saad/src/image-processing/convert_to_scale.py",
 		"/home/saad/src/image-processing/opencv_test.py",
 		"/home/saad/Desktop/wifi.py",
@@ -123,7 +141,6 @@
 		"/home/saad/src/twitter-analyser/source/apps/home/models.py",
 		"/home/saad/src/twitter-analyser/source/apps/home/templates/index.html",
 		"/home/saad/src/twitter-analyser/project.sublime-project",
-		"/home/saad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/saad/Desktop/specs.py",
 		"/home/saad/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/saad/src/twitter-analyser/source/apps/home/views.py",
@@ -174,6 +191,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'\n",
+			"highli",
 			"	cv.DestroyWindow(\"After\")\n",
 			"script_name",
 			"python",
@@ -208,31 +227,61 @@
 			[
 				{
 					"buffer": 0,
-					"file": "new",
+					"file": "TemplateMatching.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1920,
+						"buffer_size": 1267,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1471,
-								1471
+								221,
+								221
 							]
 						],
 						"settings":
 						{
+							"auto_name": "import cv2",
 							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 722.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ImageGradients.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -240,7 +289,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -277,7 +326,7 @@
 	"project": "image-processing.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
