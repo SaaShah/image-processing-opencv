@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"be",
+				"before	statement"
+			],
+			[
+				"ex",
+				"exit	param"
+			],
+			[
+				"pri",
+				"print_usage"
+			],
+			[
+				"In",
+				"IndexError	class"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"Te",
+				"Tweet"
+			],
+			[
+				"all",
+				"alltweets"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"t",
+				"target	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "new",
+			"settings":
+			{
+				"buffer_size": 1920,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+			"git commit -m 'project ported to sublime-text-3 with anaconda-plugin'",
+			"info",
+			"ls",
+			"which python",
+			"python",
+			"import django",
+			"python",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/saad/src/image-processing/convert_to_scale.py",
+		"/home/saad/src/image-processing/opencv_test.py",
+		"/home/saad/Desktop/wifi.py",
+		"/home/saad/src/twitter-analyser/.gitignore",
+		"/home/saad/src/twitter-analyser/source/apps/home/models.py",
+		"/home/saad/src/twitter-analyser/source/apps/home/templates/index.html",
+		"/home/saad/src/twitter-analyser/project.sublime-project",
+		"/home/saad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/saad/Desktop/specs.py",
+		"/home/saad/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/saad/src/twitter-analyser/source/apps/home/views.py",
+		"/home/saad/src/twitter-analyser/source/apps/twitter/conf.py",
+		"/home/saad/src/twitter-scraper/source/apps/twitter/models.py",
+		"/home/saad/src/twitter-scraper/source/apps/home/templates/twitter/tweet_list.html",
+		"/home/saad/src/twitter-scraper/source/apps/home/templates/index.html",
+		"/home/saad/src/twitter-scraper/source/main/urls.py",
+		"/home/saad/src/twitter-scraper/source/apps/home/views.py",
+		"/home/saad/src/twitter-scraper/source/apps/twitter/templates/index.html",
+		"/home/saad/src/twitter-scraper/conf/tweeter_nginx.conf",
+		"/home/saad/src/twitter-scraper/source/main/settings.py",
+		"/home/saad/src/twitter-scraper/source/main/deployed_settings.py",
+		"/home/saad/src/twitter-scraper/source/apps/rest_framework/templates/rest_framework/base.html",
+		"/home/saad/src/twitter-scraper/source/apps/rest_framework/templates/rest_framework/login.html",
+		"/home/saad/src/twitter-scraper/source/apps/rest_framework/templates/rest_framework/login_base.html",
+		"/home/saad/src/twitter-scraper/source/apps/rest_framework/templates/rest_framework/raw_data_form.html",
+		"/home/saad/src/twitter-scraper/source/apps/home/urls.py",
+		"/home/saad/src/twitter-scraper/source/apps/rest_framework/templates/rest_framework/api.html",
+		"/home/saad/src/twitter-scraper/source/apps/rest_framework/templates/rest_framework/api_form.html",
+		"/home/saad/src/twitter-scraper/source/main/wsgi.py",
+		"/home/saad/src/twitter-scraper/conf/tweeter_uwsgi.ini",
+		"/home/saad/src/feedforbored.com/source/apps/zinnia_bootstrap/templates/zinnia/skeleton.html",
+		"/home/saad/src/feedforbored.com/source/apps/zinnia_bootstrap/templates/zinnia/base.html",
+		"/home/saad/Desktop/saad.py",
+		"/home/saad/src/feedforbored.com/source/main/deployed_settings.py",
+		"/home/saad/src/feedforbored.com/.gitignore",
+		"/home/saad/src/feedforbored.com/conf/feedforbored_nginx.conf",
+		"/home/saad/src/feedforbored.com/source/main/settings.py",
+		"/home/saad/src/feedforbored.com/source/main/urls.py",
+		"/home/saad/src/feedforbored.com/conf/feedforbored_uwsgi.ini"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/saad/src/twitter-scraper/source/apps/rest_framework",
+			"/home/saad/src/twitter-scraper/source/apps"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	cv.DestroyWindow(\"After\")\n",
+			"script_name",
+			"python",
+			"]\n",
+			"title",
+			"tweeter analytics",
+			"Viral",
+			"ViralinPakistan",
+			"ViralinPakistan.com",
+			"',\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"feedforbored",
+			"feedforbored.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "new",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1471,
+								1471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "image-processing.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
